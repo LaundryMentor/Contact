@@ -5,5 +5,5 @@
 LaundryMentor SESSION ID : 05c7690b9a9a3fe9898ab164ae4461a721603d3b5c7c714caaad00ae6ad9571a03
 </BR>
 </BR>
-➜ <b>Traditional way, Send an Email</b></br>
+➜ <b>Traditional way, Send an email</b></br>
 LaundryMentor@gmail.com
